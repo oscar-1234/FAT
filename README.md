@@ -1,0 +1,2 @@
+# FAT
+First agent template
